@@ -1,29 +1,19 @@
 # kbj-dl
-<p align="center">
+<p>
   <em>Downloads VODs from sexkbj.com and skbjcam.com</em>
 </p>
 
 ## 📦 Requirements 🛠️
-- git
 - node.js
-- npm
 - chromium
 - puppeteer
 - puppeteer-extra
 - [puppeteer-extra-plugin-stealth](https://www.npmjs.com/package/puppeteer-extra-plugin-stealth)
 
 ## 🌐 Installation 🗃
-1. Clone the repository:
-    ```
-    git clone https://github.com/kpg-anon/kbj-dl
-    ```
-2. Navigate to the project directory:
-    ```
-    cd kbj-dl
-    ```
-3. Install dependencies:
+1. Install globally:
 	```
-	npm install -g
+	npm install -g kbj-dl
 	```
 ## 🧑‍💻 Usage 💻
 1. Download one or more links:
