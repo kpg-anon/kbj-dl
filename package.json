@@ -1,6 +1,6 @@
 {
   "name": "kbj-dl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Downloads VODs from sexkbj.com & sexkbjcam.com",
   "main": "index.js",
   "bin": {

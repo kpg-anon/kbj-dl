@@ -9,6 +9,8 @@
 - puppeteer
 - puppeteer-extra
 - [puppeteer-extra-plugin-stealth](https://www.npmjs.com/package/puppeteer-extra-plugin-stealth)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- ffmpeg
 
 ## 🌐 Installation 🗃
 1. Install globally:
