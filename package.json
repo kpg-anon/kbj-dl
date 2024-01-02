@@ -1,0 +1,16 @@
+{
+  "name": "kbj-dl",
+  "version": "1.0.0",
+  "description": "Downloads VODs from sexkbj.com & sexkbjcam.com",
+  "main": "index.js",
+  "bin": {
+    "kbj-dl": "index.js"
+  },
+  "author": "kpganon",
+  "license": "",
+  "dependencies": {
+    "puppeteer": "^21.6.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
