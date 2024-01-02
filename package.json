@@ -6,11 +6,20 @@
   "bin": {
     "kbj-dl": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpg-anon/kbj-dl.git"
+  },
+  "keywords": ["video", "downloader", "scraper", "puppeteer"],
   "author": "kpganon",
   "license": "",
   "dependencies": {
     "puppeteer": "^21.6.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kpg-anon/kbj-dl/issues"
+  },
+  "homepage": "https://github.com/kpg-anon/kbj-dl"
 }
