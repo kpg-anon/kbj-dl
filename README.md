@@ -1,6 +1,8 @@
-# kbj-dl
-<p>
-  <em>Downloads VODs from sexkbj.com and skbjcam.com</em>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=kbj-dl-p&fontSize=75&animation=fadeIn&fontColor=FFFFF"/>
+</p>
+<p align='center'> 
+  <em>Downloads VODs from sexkbj.com and sexbjcam.com</em>
 </p>
 
 ## 📦 Requirements 🛠️
