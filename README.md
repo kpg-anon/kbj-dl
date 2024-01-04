@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>kbj-dl</h1>
-  <p align='center'>
-  	<em>Downloads VODs from sexkbj.com and sexbjcam.com</em>
-  </p>
+  <h1 style="font-size: 2.5em;">kbj-dl</h1>
+  <em>Downloads VODs from kbj.com and bjcam.com</em>
 </div>
+
 
 ## 📦 Requirements 🛠️
 - node.js
