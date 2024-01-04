@@ -1,7 +1,8 @@
 <div align="center">
-  # kbj-dl
+  <h1>kbj-dl</h1>
   <em>Downloads VODs from kbj.com and bjcam.com</em>
 </div>
+
 
 ## 📦 Requirements 🛠️
 - node.js
