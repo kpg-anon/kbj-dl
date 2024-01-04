@@ -1,9 +1,9 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=kbj-dl-p&fontSize=75&animation=fadeIn&fontColor=FFFFF"/>
-</p>
-<p align='center'> 
-  <em>Downloads VODs from sexkbj.com and sexbjcam.com</em>
-</p>
+<div align="center">
+  <h1>kbj-dl</h1>
+  <p align='center'>
+  	<em>Downloads VODs from sexkbj.com and sexbjcam.com</em>
+  </p>
+</div>
 
 ## 📦 Requirements 🛠️
 - node.js
