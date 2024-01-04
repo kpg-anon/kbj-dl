@@ -1,8 +1,9 @@
-<div align="center">
-  <h1>kbj-dl</h1>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&color=gradient&text=kbj-dl&fontSize=75&animation=fadeIn"/>
+</p>
+<p align='center'> 
   <em>Downloads VODs from kbj.com and bjcam.com</em>
-</div>
-
+</p>
 
 ## 📦 Requirements 🛠️
 - node.js
